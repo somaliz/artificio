@@ -30,4 +30,5 @@ We provide here a suite of deep learning computer vision algorithms that are rea
 
 #### Authors:
 
-Anson Wong
+Original Author: Anson Wong
+This Repo Author : Suleiman Ali
